@@ -24,7 +24,17 @@ _HTML, SASS and CSS_
 ## Wireframes
 We created four different versions of this site using Sketch for wireframes. See each design below:
 
-![Wireframe 1 Desktop](desktop1.png) ![Wireframe 2 Desktop](desktop2.png) 
+### Wireframe 1
+
+* **Wireframe 1 Desktop** ![Wireframe 1 Desktop](desktop1.png)
+* **Wireframe 1 Tablet** ![Wireframe 1 Tablet](wireframe-1-tablet.jpg)
+* **Wireframe 1 Mobile** ![Wireframe 1 Mobile](wireframe-1-mobile.jpg)
+
+### Wireframe 2
+
+* **Wireframe 2 Desktop** ![Wireframe 2 Desktop](desktop2.png)
+* **Wireframe 2 Tablet** ![Wireframe 2 Tablet](wireframe-2-tablet.jpg)
+* **Wireframe 2 Mobile** ![Wireframe 2 Mobile](wireframe-2-mobile.jpg) 
 
 ## SASS Elements Used
 
