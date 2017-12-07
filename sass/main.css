@@ -7334,11 +7334,17 @@ body {
 .span-col-1 {
   grid-column: span 1; }
 
+.start-1 {
+  grid-column-start: 1; }
+
 .grid-2 {
   grid-template-columns: repeat(2, 1fr); }
 
 .span-col-2 {
   grid-column: span 2; }
+
+.start-2 {
+  grid-column-start: 2; }
 
 .grid-3 {
   grid-template-columns: repeat(3, 1fr); }
@@ -7346,11 +7352,17 @@ body {
 .span-col-3 {
   grid-column: span 3; }
 
+.start-3 {
+  grid-column-start: 3; }
+
 .grid-4 {
   grid-template-columns: repeat(4, 1fr); }
 
 .span-col-4 {
   grid-column: span 4; }
+
+.start-4 {
+  grid-column-start: 4; }
 
 .grid-5 {
   grid-template-columns: repeat(5, 1fr); }
@@ -7358,11 +7370,17 @@ body {
 .span-col-5 {
   grid-column: span 5; }
 
+.start-5 {
+  grid-column-start: 5; }
+
 .grid-6 {
   grid-template-columns: repeat(6, 1fr); }
 
 .span-col-6 {
   grid-column: span 6; }
+
+.start-6 {
+  grid-column-start: 6; }
 
 .grid-7 {
   grid-template-columns: repeat(7, 1fr); }
@@ -7370,11 +7388,17 @@ body {
 .span-col-7 {
   grid-column: span 7; }
 
+.start-7 {
+  grid-column-start: 7; }
+
 .grid-8 {
   grid-template-columns: repeat(8, 1fr); }
 
 .span-col-8 {
   grid-column: span 8; }
+
+.start-8 {
+  grid-column-start: 8; }
 
 .grid-9 {
   grid-template-columns: repeat(9, 1fr); }
@@ -7382,11 +7406,17 @@ body {
 .span-col-9 {
   grid-column: span 9; }
 
+.start-9 {
+  grid-column-start: 9; }
+
 .grid-10 {
   grid-template-columns: repeat(10, 1fr); }
 
 .span-col-10 {
   grid-column: span 10; }
+
+.start-10 {
+  grid-column-start: 10; }
 
 .grid-11 {
   grid-template-columns: repeat(11, 1fr); }
@@ -7394,10 +7424,28 @@ body {
 .span-col-11 {
   grid-column: span 11; }
 
+.start-11 {
+  grid-column-start: 11; }
+
 .grid-12 {
   grid-template-columns: repeat(12, 1fr); }
 
 .span-col-12 {
   grid-column: span 12; }
+
+.start-12 {
+  grid-column-start: 12; }
+
+.gap-0 {
+  grid-gap: 0; }
+
+.gap-1 {
+  grid-gap: 1; }
+
+.gap-2 {
+  grid-gap: 2; }
+
+.gap-3 {
+  grid-gap: 3; }
 
 /*# sourceMappingURL=main.css.map */

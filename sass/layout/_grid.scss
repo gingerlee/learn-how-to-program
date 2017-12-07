@@ -5,4 +5,12 @@
   .span-col-#{$i} {
     grid-column: span $i;
   }
+  .start-#{$i} {
+      grid-column-start: $i ;
+  }
+}
+@for $i from 0 through 3 {
+    .gap-#{$i} {
+        grid-gap: $i;
+    }
 }
