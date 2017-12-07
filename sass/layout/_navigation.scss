@@ -1,0 +1,13 @@
+nav {
+  background: #fff;
+  .brand-logo {
+    display: inline;
+    position: relative;
+    color: $header-text-color;
+  }
+  ul {
+    a {
+      color: $text-color;
+    }
+  }
+}

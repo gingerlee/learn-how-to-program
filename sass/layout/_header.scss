@@ -1,3 +1,16 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header of the site/application.
 // -----------------------------------------------------------------------------
+.title-box {
+  margin: auto;
+  color: #fff;
+  .subtitle {
+    margin-bottom: 150px;
+  }
+}
+
+.parallax {
+  img {
+    filter: brightness(.7);
+  }
+}
