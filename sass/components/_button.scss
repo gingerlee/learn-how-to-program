@@ -1,3 +1,9 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the button component.
 // -----------------------------------------------------------------------------
+.btn {
+  background-color: $brand-color;
+  &:hover {
+    background-color: $brand-light-color;
+  }
+}

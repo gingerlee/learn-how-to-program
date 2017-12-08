@@ -32,4 +32,11 @@ a {
     color: $text-color;
     text-decoration: underline;
   }
+  &:hover{
+    text-decoration: none;
+  }
+}
+
+img {
+  image-rendering: -webkit-optimize-contrast;
 }

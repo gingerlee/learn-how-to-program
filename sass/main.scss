@@ -23,11 +23,13 @@
   'layout/grid',
   'layout/header',
   'layout/navigation',
+  'layout/main',
   'layout/footer';
 
 // 5. Components
 @import
-  'components/button';
+  'components/button',
+  'components/card';
 
 // 6. Page-specific styles
 @import

@@ -11,3 +11,20 @@ nav {
     }
   }
 }
+
+a.brand-logo {
+    width: 240px;
+    display: inline-block;
+    background: url(../img/logo.png) no-repeat center;
+    background-size: contain;
+    text-decoration: none;
+}
+
+.nav-wrapper {
+    padding: 15px 0;
+}
+
+nav, nav .nav-wrapper i, nav a.button-collapse, nav a.button-collapse i {
+    height: 95px;
+    color: $brand-color;
+}
