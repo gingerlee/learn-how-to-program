@@ -3,5 +3,24 @@
 // -----------------------------------------------------------------------------
 .foot-menu li {
     font-weight: 300;
-    font-size: .8em;
+    font-size: 1em;
+    line-height: 1.6em;
+}
+.flex-center {
+  @include flex-center;
+}
+
+footer {
+    background: #007b7b;
+    padding: 50px;
+    padding-bottom: 0;
+    a {
+      color: #fff;
+    }
+
+}
+.social-links {
+    display: flex;
+    justify-content: space-around;
+    font-size: 1.5em;
 }
